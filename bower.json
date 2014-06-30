@@ -1,0 +1,22 @@
+{
+  "name": "gruntl",
+  "version": "0.0.1",
+  "description": "node.js backbone marionette",
+  "main": "app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "lawrence rao"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository":{
+  "url":"git://github.com/raosiyong/gruntl.git"}
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gruntl",
+  "title": "Gruntl",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/raosiyong/gruntl",
+  "author": {
+    "name": "lawrence rao"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/raosiyong/gruntl.git"
+  },
+  "bugs": "https://github.com/raosiyong/gruntl/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/raosiyong/gruntl/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
